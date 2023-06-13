@@ -83,7 +83,7 @@ def main():
                     'safe': auth_user.get('safe') - bet
                 })
         else:
-            print("Your bet hasn' valid..!")
+            print("Your bet hasn't valid..!")
 
     else:
         print('Kullanıcı bilgilierinizi kontrol ediniz..!')
