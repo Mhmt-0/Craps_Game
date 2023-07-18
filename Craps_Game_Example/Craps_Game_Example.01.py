@@ -86,7 +86,7 @@ def main():
             print("Your bet hasn't valid..!")
 
     else:
-        print('Kullanıcı bilgilierinizi kontrol ediniz..!')
+        print('Please check your account information..!')
 
 
 main()
